@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Johan Arciniegas Fajardo</h1>
 <h3 align="center">Desarrollador Full-Stack con experiencia en metodologías ágiles como SCRUM y herramientas como GIT. Conocimientos en REACT, CSS frameworks y Vue.JS. Mi experiencia como Ingeniero Electrónico me ha permitido trabajar en equipo y adquirir habilidades operativas y técnicas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jffajardo" alt="jffajardo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jffajardo" alt="jffajardo" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.JS, Angular**
+  
+- ⚡ Fun fact: **Football ⚽, Rock 🎸, VideoGames 🎮**
 
 - 👨‍💻 All of my projects are available at [https://johanarciniegasfajardo.netlify.app/](https://johanarciniegasfajardo.netlify.app/)
 
@@ -12,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/johan-arciniegas-fajardo-81500511a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan arciniegas fajardo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/johan-arciniegas-fajardo-81500511a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan arciniegas fajardo" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
