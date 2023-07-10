@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Johan Fabian Arciniegas Fajardo</h1>
-<h3 align="center">Desarrollador Full-Stack con experiencia en metodologías ágiles como SCRUM y herramientas como GIT. Conocimientos en REACT, CSS frameworks y Vue.JS. Mi experiencia como Ingeniero Electrónico me ha permitido trabajar en equipo y adquirir habilidades operativas y técnicas. Me gsta el constante aprendizaje sobre nuevas tecnologías.</h3>
+<h1 align="center">Hi 😀, I'm Johan Fabian Arciniegas Fajardo</h1>
+<h3 align="center">Full-Stack developer with experience in agile methodologies like SCRUM and tools like GIT, Trello, Slack. Knowledge in REACT, CSS frameworks and Vue.JS. My experience as an Electronic Engineer has allowed me to work in a team and acquire operational and technical skills. I like the constant learning about new technologies.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jffajardo" alt="jffajardo" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Vue.JS, Angular**
   
-- ⚡ Fun fact: **Football ⚽, Rock 🎸, VideoGames 🎮**
+- ⚡ Fun fact: **Football ⚽, Rock 🎸, VideoGames 🎮, PetLover 🐶🐱🐼🐿🐨**
 
 - 👨‍💻 All of my projects are available at [https://johanarciniegasfajardo.netlify.app/](https://johanarciniegasfajardo.netlify.app/)
 
