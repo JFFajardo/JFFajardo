@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Johan Arciniegas Fajardo</h1>
-<h3 align="center">Desarrollador Full-Stack con experiencia en metodologías ágiles como SCRUM y herramientas como GIT. Conocimientos en REACT, CSS frameworks y Vue.JS. Mi experiencia como ingeniero electrónico me ha permitido trabajar en equipo y adquirir habilidades operativas y técnicas</h3>
+<h3 align="center">Desarrollador Full-Stack con experiencia en metodologías ágiles como SCRUM y herramientas como GIT. Conocimientos en REACT, CSS frameworks y Vue.JS. Mi experiencia como Ingeniero Electrónico me ha permitido trabajar en equipo y adquirir habilidades operativas y técnicas</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jffajardo" alt="jffajardo" /></a> </p>
 
